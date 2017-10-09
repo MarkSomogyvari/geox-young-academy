@@ -99,6 +99,7 @@ There people participate in the workshop:
 - Irina Zhelavskaya, @irinazz
 - Sreeram Reddy Kotha, @sriram010689
 - David Frantz, @davidfrantz
+- Márk Somogyvári @MarkSomogyvari
 
 ## Examples
 
